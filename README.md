@@ -1,16 +1,20 @@
-### Hi there 👋
+### Who am I?
+- 😄 I'm an undergraduate student from [Harbin Engineering University](http://www.hrbeu.edu.cn/)
 
-<!--
-**only9464/only9464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What programming languages do I excel in?
+- 🤔 To be honest, I'm not good at anything, haha
 
-Here are some ideas to get you started:
+### What am I learning?
+- 🌱 I’m currently learning Golang、Python、Vue
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What have I been doing lately?
+- 😄 Play [BattleTeam2](https://www.ssjj.cn/)
+- 💬 Sleep
+### How to contact me?
+- 📫 You can you send me an email to this email address：[sky9464@qq.com](mailto:sky9464@qq.com)
+
+### What projects have I been working on recently?
+- ⚡ [Harbin Engineering University Course Strategy Sharing Plan](https://github.com/HEUOpenResource/heu-icicles)
+
+### What can I say?
+- 👯 Manba Out!(
