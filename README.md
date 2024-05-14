@@ -37,7 +37,7 @@
 </p>
 
 [![heu-icicles](https://github-readme-stats.vercel.app/api/pin/?username=HEUOpenResource&repo=heu-icicles&show_owner=true)](https://github.com/HEUOpenResource/heu-icicles)
-[![heu-icicles](https://github-readme-stats.vercel.app/api/pin/?username=HEUOpenResource&repo=mkdocs-build&show_owner=true)](https://github.com/HEUOpenResource/mkdocs-build)
+[![heu-icicles](https://github-readme-stats.vercel.app/api/pin/?username=for9464&repo=for9464.github.io&show_owner=true)](https://github.com/for9464/for9464.github.io)
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
