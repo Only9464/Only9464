@@ -5,7 +5,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的Github主页！" />
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=only9464&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
+  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sky9464)](https://wakatime.com/@sky9464)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only9464&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
