@@ -39,7 +39,7 @@
 </p>
 <p align="center">
 
-[![Fuck-YuKeTang](https://github-readme-stats.vercel.app/api/pin/?username=only9464&repo=Fuck-YuKeTang&show_owner=true)](https://github.com/only9464/Fuck-YuKeTang)
+[![GlideWay](https://github-readme-stats.vercel.app/api/pin/?username=only9464&repo=GlideWay&show_owner=true)](https://github.com/only9464/GlideWay)
 [![heu-icicles](https://github-readme-stats.vercel.app/api/pin/?username=HEUOpenResource&repo=heu-icicles&show_owner=true)](https://github.com/HEUOpenResource/heu-icicles)
 </p>
 
